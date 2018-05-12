@@ -15,20 +15,20 @@ contributor:
     gutenberg_agent_id: '38315'
     url: http://www.gutenberg.org/2009/agents/38315
   - agent_name: Norris, William A.
-    birthdate: &id001 1896
+    birthdate: 1896
     deathdate: 1964
     gutenberg_agent_id: '41395'
     url: http://www.gutenberg.org/2009/agents/41395
   - agent_name: Dos Passos, John
     alias: Passos, John Dos
-    birthdate: *id001
+    birthdate: 1896
     deathdate: 1970
     gutenberg_agent_id: '2015'
     url: http://www.gutenberg.org/2009/agents/2015
     wikipedia: http://en.wikipedia.org/wiki/John_Dos_Passos
   - agent_name: Damon, S. Foster (Samuel Foster)
     alias: Damon, Samuel Foster
-    birthdate: &id002 1893
+    birthdate: 1893
     deathdate: 1971
     gutenberg_agent_id: '38313'
     url: http://www.gutenberg.org/2009/agents/38313
@@ -41,7 +41,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1795
     wikipedia: http://en.wikipedia.org/wiki/Robert_Hillyer
   - agent_name: Poore, Dudley
-    birthdate: *id002
+    birthdate: 1893
     deathdate: 1982
     gutenberg_agent_id: '38314'
     url: http://www.gutenberg.org/2009/agents/38314
@@ -56,6 +56,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36508#Eight-Harvard-Poets
 gutenberg_issued: '2011-06-24'
 gutenberg_type: Text
 identifiers:
